@@ -1,5 +1,5 @@
 (async () => {
-    if (console.log("%c Blooket Cheats Plus %c\n	By Mike on GitHub", "color: #0bc2cf; font-size: 3rem", "color: #8000ff; font-size: 1rem"), console.log("%c	gui.js", "color: #0bc2cf; font-size: 1rem"), console.log("%c	Star the github repo!%c  https://github.com/MikeKonz/Blooket-GUI", "color: #ffd000; font-size: 1rem", ""), document.querySelector("script[src*='bfs/index.js']") && !window.clearId) {
+    if (console.log("%c Blooket GUI %c\n	By Mike on GitHub", "color: #0bc2cf; font-size: 3rem", "color: #8000ff; font-size: 1rem"), console.log("%c	gui.js", "color: #0bc2cf; font-size: 1rem"), console.log("%c	Star the github repo!%c  https://github.com/MikeKonz/Blooket-GUI", "color: #ffd000; font-size: 1rem", ""), document.querySelector("script[src*='bfs/index.js']") && !window.clearId) {
         for (var e, t, a, o, r, i, n, s, e = document.createElement("iframe"), t = (document.body.appendChild(e), window.clearId = window.setInterval(() => {}, 0)); t--;) e.contentWindow.clearInterval.call(window, t);
         e.remove()
     }
@@ -15,7 +15,7 @@
         for (let s of a) o.append(s);
         return o
     }
-    let c = {
+    let c = {https://translate.google.com/?sl=en&tl=ar&op=translate
         data: null,
         setItem(e, t) {
             return e.split(".").reduce((e, a, o, r) => (++o == r.length && (e[a] = t), e[a]), this.data), localStorage.setItem("JODGUISettings", JSON.stringify(this.data)), this.data
@@ -171,8 +171,8 @@
             fontWeight: "700",
             userSelect: "text"
         },
-        innerHTML: "GitHub - DannyDan0167",
-        onclick: () => window.open("https://github.com/DannyDan0167/Blooket-Cheats-Plus", "_blank").focus()
+        innerHTML: "GitHub - MikeKonz",
+        onclick: () => window.open("https://github.com/MikeKonz/Blooket-GUI", "_blank").focus()
     }), $ = l("div", {
         id: "controlButtons",
         style: {
